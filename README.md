@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://gist.github.com/f4ec9b75736a98be5f6198f5ae40b897)" width="700px" />
 </div>
 
 
