@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src= "https://user-images.githubusercontent.com/93351925/176708645-bd2e7539-761b-4664-84dc-0c7495720449.gif" />
 </div>
 
 
@@ -62,8 +62,8 @@ in <strong>Mechatronics Engineer</strong>.<br />
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jvictorrp15&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorrp15&show_icons=true&theme=radical">
 </p>
 
 
