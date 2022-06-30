@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://gist.github.com/f4ec9b75736a98be5f6198f5ae40b897)" width="700px" />
+<img src="![1_zVnWJtyGOX_kUIDm6ccCfQ](https://user-images.githubusercontent.com/93351925/176698129-1748dcee-5229-4119-9914-f6cad0828cde.gif)" width="700px" />
 </div>
 
 
@@ -53,13 +53,9 @@ in <strong>Mechatronics Engineer</strong>.<br />
 <p align="center">
   
  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
- <img src="![image](https://user-images.githubusercontent.com/93351925/176695148-2b2e2153-1f55-48ca-83a3-3bd8a7066026.png)" height="25"/>
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-
-
 
 </p>
 
